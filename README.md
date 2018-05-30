@@ -1,7 +1,7 @@
 EcommerceAIT
 
 ToDo List:
--Responsivness
+-Responsivness /n
 -Page for Login/Registration (first action for accessing the web site)
 -Cart
 -Create all the tables
